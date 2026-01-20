@@ -1,7 +1,7 @@
-🗨️ Simple Chatbot using OpenAI
+🗨️ Intelligent Conversational Agent
 
 Hi there! 👋
-This is one of my learning projects where I built a simple chatbot using Python and the OpenAI API.
+This is one of my learning projects where I built a chatbot using Python and the OpenAI API.
 The chatbot runs in the terminal — you type something, and it gives an AI-powered response.
 
 
