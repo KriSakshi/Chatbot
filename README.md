@@ -13,7 +13,7 @@ The chatbot runs in the terminal — you type something, and it gives an AI-powe
 
 -Learn how to keep sensitive information (like API keys) safe using .env
 
--Practice Python concepts like loops, file handling, and error handling
+-Practice Python concepts like loops, file handling, and error handling.
 
 -Build something small but practical that I can later improve (like adding a front-end)
 
